@@ -12,4 +12,4 @@ desarrollo, por lo que solo el modulo recepcionista posee funcionalidades.
 * Jcalendar 1.4
 
 ### Screenshot
-![screenshoot](https://ibb.co/cv7cnkY)
+![screenshoot](https://i.ibb.co/9vC95cZ/login.jpg)
