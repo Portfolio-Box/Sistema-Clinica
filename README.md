@@ -13,3 +13,9 @@ desarrollo, por lo que solo el modulo recepcionista posee funcionalidades.
 
 ### Screenshot
 ![screenshoot](https://i.ibb.co/9vC95cZ/login.jpg)
+
+![screenshoot](https://i.ibb.co/F7s3D1r/modulos.jpg)
+
+![screenshoot](https://i.ibb.co/xLFjQH8/pacientes.jpg)
+
+![screenshoot](https://i.ibb.co/sjS3RbT/turnos.jpg)
